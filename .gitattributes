@@ -7,9 +7,11 @@
 *.h text
 
 #Vivado Text files
-*.v
-*.vhdl
-*.xdc
+*.v text
+*.sv text
+*.vhdl text
+*.xdc text
+*.xpr text
 
 # Declare files that will always have CRLF line endings on checkout.
 *.sln text eol=crlf
