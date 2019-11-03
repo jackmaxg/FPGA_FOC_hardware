@@ -1,0 +1,12 @@
+#EAGLE ignores
+*.*#*
+
+#LTSPICE ignores
+*.raw
+*.op.raw
+*.log
+*.net
+*.plt
+
+#Google Drive
+*desktop.ini
